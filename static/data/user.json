@@ -1,0 +1,15 @@
+{
+  "title": "user",
+  "userList": [
+    {
+      "userId": 0,
+      "username": "goodwin",
+      "password": "123"
+    },
+    {
+      "userId": 1,
+      "username": "goodwin2",
+      "password": "123"
+    }
+  ]
+}
